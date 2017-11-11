@@ -1,1 +1,1 @@
-# InsuranceDataGenerator
+# Sessionlog DataGenerator
